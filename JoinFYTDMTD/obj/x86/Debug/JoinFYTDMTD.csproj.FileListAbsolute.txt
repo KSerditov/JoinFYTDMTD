@@ -1,0 +1,4 @@
+c:\users\kserditov\documents\visual studio 2010\Projects\JoinFYTDMTD\JoinFYTDMTD\bin\Debug\JoinFYTDMTD.exe
+c:\users\kserditov\documents\visual studio 2010\Projects\JoinFYTDMTD\JoinFYTDMTD\bin\Debug\JoinFYTDMTD.pdb
+c:\users\kserditov\documents\visual studio 2010\Projects\JoinFYTDMTD\JoinFYTDMTD\obj\x86\Debug\JoinFYTDMTD.exe
+c:\users\kserditov\documents\visual studio 2010\Projects\JoinFYTDMTD\JoinFYTDMTD\obj\x86\Debug\JoinFYTDMTD.pdb
